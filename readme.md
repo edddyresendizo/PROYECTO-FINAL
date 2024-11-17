@@ -1,10 +1,12 @@
 # ESFERA CREATIVA
 
 **PROYECTO FINAL**
+
 En este proyecto final presento una página web creada en HTML, en donde se muestra la información básica de
 ESFERA CREATIVA, una agencia de marketing creativo inspirada en el constante cambio del mundo moderno.
 
 _SOBRE EL PROYECTO Y SUS CARACTERISTICAS_
+
 El sitio web refleja de manera sencilla, clara y profesional nuestra identidad y servicios. En el sitio, incluí un título atractivo y una selección de imágenes en formato GIF que enriquecen la presentación visual. La sección '¿Quiénes somos?' proporciona una visión integral de nuestra filosofía y valores. Asimismo, estructuré nuestra misión y visión, y detallé nuestros servicios y los objetivos que ayudamos a lograr para nuestros clientes a través de listas ordenadas y desordenadas para una mejor comprensión.
 De igual forma añadí enlaces en los siguientes apartados:
 1. Redes sociales.
@@ -26,6 +28,6 @@ Los pasos que seguí fueron los siguientes:
 9. Subiré a mi repetorio este archivo actualizado y listo.
 
 ### ENLACE GITHUB PAGES
-**Clic aquí:** 
+**Clic aquí:** https://edddyresendizo.github.io/PROYECTO-FINAL/
 
 ![Programación](https://cecytebcs.edu.mx/wp-content/uploads/2022/02/programacion.jpeg)
